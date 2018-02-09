@@ -1,9 +1,3 @@
 
 
-Hello world...this is my first change...
-
-Another changes made just now....
-
-Another test 1, 2, 3...
-
-more changes
+Experimenting with github basics. 
